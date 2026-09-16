@@ -1,4 +1,4 @@
-# AmiiboSlot
+# AmiiboSlot BY @AVOMI <- TG
 
 Android-приложение для подготовки 540-байтных Amiibo BIN и записи их в слоты Chameleon Ultra.
 
